@@ -24,6 +24,7 @@ int main() {
     for(int i=0;i<n-1;i++){
         cout<<a[i]<<" ";
     }
+    cout<<"hello sarthak"<<endl;
     cout<<a[n-1]<<endl;
     
 }
