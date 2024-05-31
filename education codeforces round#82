@@ -34,7 +34,7 @@ int main() {
             }
         }
         cout<<count<<endl;
-            
+        cout<<"hello from sarthal"<<endl;
         }
         else{
             cout<<"0"<<endl;
