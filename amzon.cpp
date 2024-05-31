@@ -6,6 +6,7 @@ cin>>t;
 while(t--)
 {
     cout<<"hellp word"<<endl;
+    cout<<"hell0 sarthak"<<endl;
 
 }
 return 0;
