@@ -8,7 +8,7 @@ int main() {
    int n;
    int sum;
    int odd;
-   int even;
+   int even;   cout<<"manju"<<endl;
    
    for(int i=0;i<t;i++){
        cin>>n;

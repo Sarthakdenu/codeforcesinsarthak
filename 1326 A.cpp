@@ -9,7 +9,7 @@ int main() {
     for(int i=0;i<t;i++){
         cin>>n;
       
-        if(n==1){
+        if(n==1){   cout<<"manju"<<endl;
             cout<<"-1"<<endl;
         }
         else if(n==2){

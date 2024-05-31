@@ -7,7 +7,7 @@ while(t--)
 {
     cout<<"hellp word"<<endl;
     cout<<"hell0 sarthak"<<endl;
-
+   cout<<"manju"<<endl;
 }
 return 0;
 }

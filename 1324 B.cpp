@@ -8,7 +8,7 @@ int main() {
    int n;
    int a;
    for(int i=0;i<t;i++){
-       cin>>n;
+       cin>>n;   cout<<"manju"<<endl;
        vector<pair<int,int>> arr;
        for(int j=0;j<n;j++){
            cin>>a;
