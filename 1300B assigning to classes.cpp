@@ -15,7 +15,7 @@ int main() {
        }
        
        sort(arr,arr+m);
-       cout<<abs(arr[n-1]-arr[n])<<endl;
+       
    }
      
 }

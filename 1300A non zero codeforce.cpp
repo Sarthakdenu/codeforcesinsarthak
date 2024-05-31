@@ -8,6 +8,7 @@ int main() {
     for(int i=0;i<t;i++){
         int n;
         cin>>n;
+        cout<<"hello "<<endl;
         int arr[n];
         int zero=0;
         int sum=0;
