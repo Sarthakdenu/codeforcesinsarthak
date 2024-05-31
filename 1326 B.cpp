@@ -7,7 +7,7 @@ int main() {
     int t;
     while(t--)
     {
-        int n;
+       cout<<"manju"<<endl;    int n;
         cin>>n;
         cout<<(n*(n+1))/2<<endl;
     }

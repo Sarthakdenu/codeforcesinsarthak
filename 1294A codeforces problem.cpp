@@ -10,7 +10,7 @@ int main() {
     for(int i=0;i<t;i++){
         cin>>a>>b>>c>>n;
     
-    
+    cout<<"manju"<<endl;
     
     if(a==b && b==c){
         if(n%3==0){
